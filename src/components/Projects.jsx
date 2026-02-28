@@ -12,12 +12,12 @@ const projects = [
         image: "/bmi.png"
     },
     {
-        title: "Fussion of Weather (Basic FOW)",
-        description: "A sleek and dynamic weather app for real-time updates. Enter your location and get instant forecasts with ease!",
-        tech: ["JavaScript", "API", "HTML/CSS"],
-        live: "http://fussion-of-weather.vercel.app/",
-        github: "https://github.com/Ak-official881/Weather-app",
-        image: "/fow.png"
+        title: "HolaAi",
+        description: "A personalized AI chatbot offering intelligent conversations and tailored responses.",
+        tech: ["MERN Stack", "Tailwind CSS", "React.js"],
+        live: "https://github.com/Ak-official881/HolaAi",
+        github: "https://github.com/Ak-official881/HolaAi",
+        image: "/HolaAi.png"
     },
     {
         title: "TaskUs",
